@@ -22,7 +22,7 @@ At the end of all the modules you will be able to get a job in different cyberse
 
 <div align="center"> -Modules- </div>
 
-<a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/M0du10-1-1NTR0DUCC10N" hover>***INTRODUCTION TO THE PLATFORM AND CYBERSECURITY.</a>
+<a href="https://github.com/Croll1312/C0M91373-H4CK1N6-C0U453-4ND-04-6U1D3/blob/main/M0DU13-1-1NT40DUC710N" hover>***INTRODUCTION TO THE PLATFORM AND CYBERSECURITY.</a>
 
 In this first module, the platform that we will use throughout the course/guide is presented, with the exception of the final practical works, which is TryHackMe, and absolutely ALL the laboratories used are free (please, if any laboratory was eliminated It has passed to payment, leave me a comment and I will solve it as soon as possible).
 
@@ -34,13 +34,13 @@ In this module you will learn the basic and essential commands, such as find, gr
 
 BUT, we will also work with Windows, why? Because a hacker who manages a single operating system is not a hacker, he is just a "wanna be" / sells smoke and this course is aimed at those who really want to learn, not lazy people without curiosity.
 
-<a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/M0DU10-3-BLU3T34M">***BLUE TEAM.</a>
+<a href="https://github.com/Croll1312/C0M91373-H4CK1N6-C0U453-4ND-04-6U1D3/blob/main/M0DU13-3-BLU3T34M">***BLUE TEAM.</a>
 
 It is known that a person with knowledge of hacking knows how to break systems, but what most do not know is that to know how to break, one must also know how to protect, that is why this module is focused on all the existing basic cyber defense tactics such as phishing detection , malware analysis, mobile hacking, abnormal behavior in networks, mitigation processes, etc.
 
 In the past I have worked for a long time in this area and I have even done recruitment, where I witnessed that many people do not even know the potential of monitoring tools such as SIEM and Splunk, so this module is of the utmost importance. In addition to the fact that this area is not to be taught anywhere because there are no professionals who have time to give classes on these topics... therefore, TAKE ADVANTAGE!!!
 
-<a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/M0DU10-4-R3D35">***NETWORKING.</a>
+<a href="https://github.com/Croll1312/C0M91373-H4CK1N6-C0U453-4ND-04-6U1D3/blob/main/M0DU13-4-N37W04K1N6">***NETWORKING.</a>
 
 Networks... the vast majority of people think that hacking is 100% programming and there is nothing more wrong than that, since hacking is a lot of analysis, reading comprehension, a lot of networks, execution behaviors of the target to control and/or or explode etc.
 
@@ -48,29 +48,29 @@ Networks is something that EVERY SYSTEMS PERSON has to know YES OR YES... it is 
 
 Therefore, this module, as well as the previous one, is EXTREMELY IMPORTANT and I hope that you can acquire all the knowledge that is detailed.
 
-<a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/M0DU10-5-1N63N13414-S0C141">***SOCIAL ENGINEERING.</a>
+<a href="https://github.com/Croll1312/C0M91373-H4CK1N6-C0U453-4ND-04-6U1D3/blob/main/M0DU13-5-50C141-3N61N3341N6">***SOCIAL ENGINEERING.</a>
 
 We reach the mecca, hacking 24/7, wherever, whenever, with whoever or whatever the target is... Cybint, HUmint, Osint... Absolutely everything is based on analysis but now we focus on human behavior because it is ALWAYS the most vulnerable layer and at the same time it will ALWAYS be the layer that we will always have to work on so that they know how to protect themselves. But in this module I dared to go a little further, I added a bit of psychology to theory so I also strongly recommend that you do the COMPLETE theory since it will absolutely always serve you.
 
-<a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/M0DU10-6-107">***IOT HACKING.</a>
+<a href="https://github.com/Croll1312/C0M91373-H4CK1N6-C0U453-4ND-04-6U1D3/blob/main/M0DU13-6-107">***IOT HACKING.</a>
 
 Internet Of Things / The internet of things... SmartTV, SmartCafeteria, SmartCasa, etc... It is a BEAUTIFUL topic given the possibilities that having knowledge about IOT hacking gives you. Currently (2022) is an area to which the end is giving great importance (in addition to appearing in movies and TV series), it is important that people know the importance of public information on their home devices and how to protect themselves (besides that you have to know how to break them and/or use them for other things). If you're into watching series and other Hollywood stuff and that rubbish, then it's very likely that you'll like this module, but I also recommend that you do it, ..besides, it's very short, don't be too lazy.
 
-<a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/M0DU10-7-C41970644F14">***CRYPTOGRAPHY.</a>
+<a href="https://github.com/Croll1312/C0M91373-H4CK1N6-C0U453-4ND-04-6U1D3/blob/main/M0DU13-7-%20C4Y9706R49HY">***CRYPTOGRAPHY.</a>
 
 This theme is beautiful! Many professionals constantly talk d=about cryptography and many friends have told me that they usually don't understand anything about it, so in this module all the lights are going to turn on for you to understand a LOT of THINGS about all areas of systems... Agreeing cryptography in any area is something very powerful, a tool for communication or simply sending data in the most secure way possible...so vo perro.
 
-<a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/M0DU10-8-4PL1C4C10N35-W3B">***WEB APPLICATIONS.</a>
+<a href="https://github.com/Croll1312/C0M91373-H4CK1N6-C0U453-4ND-04-6U1D3/blob/main/M0DU13-8-W38-499L1C4710N5">***WEB APPLICATIONS.</a>
 
 Now yes, if you want to make a living searching for web vulnerabilities, being a bounty hunter, being recognized, doing research, etc.. This module and the ones that follow you have to do and redo if necessary. Because from now on we start with something that will be presented to us in absolutely the vast majority of ethical hacking jobs.
 
 How websites work, social network pages, how to modify them, how to attack them, everything... From now on, I would like all the issues to be taken up even more maturely, given that any action you take without the consent of the entity that owns the site you attack can land you in jail (far from it).
 
-<a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/M0DU10-9-VULN3R4V1L1D4D35-499-W38">***WEB APPLICATION VULNERABILITIES.</a>
+<a href="https://github.com/Croll1312/C0M91373-H4CK1N6-C0U453-4ND-04-6U1D3/blob/main/M0DU13-9-W38-499-VU1N5">***WEB APPLICATION VULNERABILITIES.</a>
 
 Well, once we have learned the how and why of web applications, it is time to start exploiting the most basic vulnerabilities that we can find throughout the entire network. These are the ones you will use every day to exploit manually or with automatic tools. With these bases you will be able to get started in pentesting, so enjoy it, practice and read!!!
 
-<a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/M0DU10-10-P3NT357">***PENTEST.</a>
+<a href="https://github.com/Croll1312/C0M91373-H4CK1N6-C0U453-4ND-04-6U1D3/blob/main/M0DU13-10-P3NT357">***PENTEST.</a>
 
 Pentest, the most requested in cybersecurity audits, the strong branch, the mecca of all ethical hacker work. The vast majority of this module is practical, which does not mean that each room does not have its theory inside, so please read everything carefully, acquire knowledge, have fun, and make an arsenal of tools along with a checklist of what to do and in what step to do it.
 
