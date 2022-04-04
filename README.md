@@ -26,7 +26,7 @@ At the end of all the modules you will be able to get a job in different cyberse
 
 In this first module, the platform that we will use throughout the course/guide is presented, with the exception of the final practical works, which is TryHackMe, and absolutely ALL the laboratories used are free (please, if any laboratory was eliminated It has passed to payment, leave me a comment and I will solve it as soon as possible).
 
-<a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/M0DU10-2-B4535%20L1NUX-W1ND0W2">***LINUX AND WINDOWS FUNDAMENTALS.</a>
+<a href="https://github.com/Croll1312/C0M91373-H4CK1N6-C0U453-4ND-04-6U1D3/blob/main/M0DU13-2-L1NUX-4ND-W1ND0W5-FUND4M3N7415">***LINUX AND WINDOWS FUNDAMENTALS.</a>
 
 It is known that to know about hacking you must have basic/intermediate knowledge about the use of the Linux Operating System due to the vast majority of Open Sources tools for performing penetration tests on systems only run on it, which does not mean that it is also can do hacking with smartphones and computers with Linux operating systems.
 
