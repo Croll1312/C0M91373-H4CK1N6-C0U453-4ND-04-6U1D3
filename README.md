@@ -83,16 +83,13 @@ Pentest, the most requested in cybersecurity audits, the strong branch, the mecc
 
 <div align="center"> ***FINAL WORKSHOPS</div>
 
-<a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/TR484J0-F1N41-D3F3N54">***Defense Cybersecurity<<<<<<<<<.</a>
+<a href="https://github.com/Croll1312/C0M91373-H4CK1N6-C0U453-4ND-04-6U1D3/blob/main/F1N41-W04K-D3F3N535">***Defense Cybersecurity<<<<<<<<<.</a>
   
 This work consists of seeing all the chapters of the series and writing down, for each chapter, each attack that you detect, explaining it with technical concepts and at the same time describing how to mitigate them both to prevent them and to solve them after the attack was carried out.
 
 All this work serves as a test so that they can realize if they really acquired all the theoretical/practical knowledge of hacking.
 
-<a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/TR484J0-F1N41-0F3N51V0">***Offensive Cybersecurity<<<<<<<<<.</a>
+<a href="https://github.com/Croll1312/C0M91373-H4CK1N6-C0U453-4ND-04-6U1D3/blob/main/F1N41-W04K-0F3N51V0">***Offensive Cybersecurity<<<<<<<<<.</a>
   
 In this practical work, the vast majority of the practices are based on your personal computer when downloading an image from a laboratory (for example, from this site: VulnHub)
 
-<a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/C0N73N1D0-3XT44">***BONUS CONTENT.</a>
-  
-The content that you will see at this point may vary depending on the language version that you are taking the course/guide. It is very important that you watch and carefully analyze each video in order to acquire the greatest possible knowledge critically.
