@@ -7,12 +7,12 @@ Pentesting course 16.3.33
 The author of this course alias "Croll1" is not responsible for
 the actions carried out by the students
 of the strictly marked activities of this course.
-Any act carried out without the consent of the tutor and/or the owners of the target impacted is
+Any act attack without the consent of the tutor and/or the owners of the target impacted is
 the responsibility of the person who executed it.
 
 ***FROM ZERO TO MEDIUM/ADVANCED - theoretical/practical***
 
-This course is designed so that you can obtain the knowledge from basic to intermediate level, bordering on the advanced level, that every person who aspires to be a hacker <b><i>should</b></i> have, aimed at everyone amateur, student and/or professional in the area, in order to be able to offer them the opportunity to learn everything they need about hacking for free and by their own means (this is my collaboration to the world from the hacker culture).
+This course were designed for obtain the knowledge from basic to medium level, almost advanced, that every person who aspires to be a hacker <b><i>should</b></i> have, aimed at everyone amateur, student and/or professional in the area, in order to be able to offer them the opportunity to learn everything they need about hacking for free and by their own means (this is my collaboration to the world of hacker culture).
 
 Knowledge MUST BE FREE, therefore, let's spread it to whoever requests it WITHOUT PROFIT PURPOSES.
 
@@ -24,11 +24,11 @@ At the end of all the modules you will be able to get a job in different cyberse
 
 <a href="https://github.com/Croll1312/C0M91373-H4CK1N6-C0U453-4ND-04-6U1D3/blob/main/M0DU13-1-1NT40DUC710N" hover>***INTRODUCTION TO THE PLATFORM AND CYBERSECURITY.</a>
 
-In this first module, the platform that we will use throughout the course/guide is presented, with the exception of the final practical works, which is TryHackMe, and absolutely ALL the laboratories used are free (please, if any laboratory was eliminated It has passed to payment, leave me a comment and I will solve it as soon as possible).
+In this first module, the platform that we will use throughout the course/guide is presented (with the exception of the final practical works) which is TryHackMe, and absolutely ALL the laboratories used are free (please, if any laboratory was eliminated or It has passed to payment, leave me a comment and I will solve it as soon as possible).
 
 <a href="https://github.com/Croll1312/C0M91373-H4CK1N6-C0U453-4ND-04-6U1D3/blob/main/M0DU13-2-L1NUX-4ND-W1ND0W5-FUND4M3N7415">***LINUX AND WINDOWS FUNDAMENTALS.</a>
 
-It is known that to know about hacking you must have basic/intermediate knowledge about the use of the Linux Operating System due to the vast majority of Open Sources tools for performing penetration tests on systems only run on it, which does not mean that it is also can do hacking with smartphones and computers with Linux operating systems.
+It is known that to know about hacking you must have basic/intermediate knowledge about the use of the Linux Operating System due to the vast majority of Open Sources tools for performing penetration tests, which does not mean that it is also can do hacking with smartphones and computers with Linux operating systems.
 
 In this module you will learn the basic and essential commands, such as find, grep, etc. And like every module, it also has its theoretical part that I STRONGLY recommend that you do it for yourself and enrich your knowledge (in all modules).
 
