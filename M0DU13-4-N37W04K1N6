@@ -1,5 +1,6 @@
 >>>THEORY<<<
-4.a- Briefly explain all the network topologies detailed in the documentation provided (their use, how they are connected, pros and cons). 4.b- Choose one, the one you think is the safest of all and explain why you think it is the safest (according to what you read).
+4.a- Briefly explain all the network topologies detailed in the documentation provided (their use, how they are connected, pros and cons). 
+4.b- Choose the one you think is the safest of all and explain why you think it is the safest (according to what you read).
 4.c- Explain in a few words what LAN, WAN and MAN are.
 Help - Network topology - https://unac.edu.pe/images/inventario/documentos/manuales/topologia-e-infraestructura_guia_v02.pdf
 
@@ -8,10 +9,10 @@ Help - Network topology - https://unac.edu.pe/images/inventario/documentos/manua
 4.f- Describe what is a DHCP server, a VPN, a DATABASE, an APP, a POP3, and a WEB.
 
 Help:
-*Curso teorico y practico de Nmap:
+*Nmap practical video:
 https://www.youtube.com/watch?v=4Zn6qgqxmWY
-*Instalacion Nmap: https://www.youtube.com/watch?v=P4NFIWuyWMM 
-*Tutoriales nmap:
+*Installation Nmap: https://www.youtube.com/watch?v=P4NFIWuyWMM 
+*Tutorials nmap:
 *https://www.google.com/search?q=tutorial+nmap&client=firefox-b-e&source=lnms&tbm=vid&sa=X&ved=2ahUKEwjzt4Xx0sjvAhVpH7kGHYasDlcQ_AUoAXoECAEQAw&biw=1366&bih=616
 *https://www.youtube.com/watch?v=-AivhQL_82E
 
