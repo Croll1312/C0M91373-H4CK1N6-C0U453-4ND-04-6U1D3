@@ -91,8 +91,8 @@ All this work serves as a test so that they can realize if they really acquired 
 
 <a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/TR484J0-F1N41-0F3N51V0">***Offensive Cybersecurity<<<<<<<<<.</a>
   
-En este trabajo practico se basa la granmayoria de las practicas en su equipo personal al descargarse una iagen de un laboratorio (por ejemplo, de este sitio: VulnHub)
+In this practical work, the vast majority of the practices are based on your personal computer when downloading an image from a laboratory (for example, from this site: VulnHub)
 
 <a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/C0N73N1D0-3XT44">***BONUS CONTENT.</a>
   
-El contenido que veran en este punto puede variar dependiendo la version de idioma que esten realizando el curso/guia. Es muy importante que vean y analicen minuciosamente cada video para poder adquirir el mayor conocimiento posible de forma critica.
+The content that you will see at this point may vary depending on the language version that you are taking the course/guide. It is very important that you watch and carefully analyze each video in order to acquire the greatest possible knowledge critically.
